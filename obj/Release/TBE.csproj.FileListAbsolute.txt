@@ -1,9 +1,0 @@
-C:\Users\pc\Desktop\Cms Tbe\bin\TBE.dll.config
-C:\Users\pc\Desktop\Cms Tbe\bin\TBE.dll
-C:\Users\pc\Desktop\Cms Tbe\bin\TBE.pdb
-C:\Users\pc\Desktop\Cms Tbe\bin\AjaxControlToolkit.dll
-C:\Users\pc\Desktop\Cms Tbe\obj\Release\TBE.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\Cms Tbe\obj\Release\TBE.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\Cms Tbe\obj\Release\TBE.csproj.CopyComplete
-C:\Users\pc\Desktop\Cms Tbe\obj\Release\TBE.dll
-C:\Users\pc\Desktop\Cms Tbe\obj\Release\TBE.pdb
