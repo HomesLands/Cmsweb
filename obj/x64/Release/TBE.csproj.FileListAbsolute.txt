@@ -1,0 +1,25 @@
+C:\Users\pc\Desktop\Cms Tbe\bin\TBE.dll.config
+C:\Users\pc\Desktop\Cms Tbe\bin\TBE.dll
+C:\Users\pc\Desktop\Cms Tbe\bin\TBE.pdb
+C:\Users\pc\Desktop\Cms Tbe\bin\AjaxControlToolkit.dll
+C:\Users\pc\Desktop\Cms Tbe\obj\x64\Release\TBE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Cms Tbe\obj\x64\Release\TBE.csproj.CopyComplete
+C:\Users\pc\Desktop\Cms Tbe\obj\x64\Release\TBE.dll
+C:\Users\pc\Desktop\Cms Tbe\obj\x64\Release\TBE.pdb
+C:\Users\pc\Desktop\Cms Tbe\obj\x64\Release\TBE.csproj.AssemblyReference.cache
+D:\New folder\bin\TBE.dll.config
+D:\New folder\bin\TBE.dll
+D:\New folder\bin\TBE.pdb
+D:\New folder\obj\x64\Release\TBE.csproj.AssemblyReference.cache
+D:\New folder\obj\x64\Release\TBE.csproj.CoreCompileInputs.cache
+D:\New folder\obj\x64\Release\TBE.csproj.CopyComplete
+D:\New folder\obj\x64\Release\TBE.dll
+D:\New folder\obj\x64\Release\TBE.pdb
+D:\Tài Liệu\28. CMS\bin\TBE.dll.config
+D:\Tài Liệu\28. CMS\bin\TBE.dll
+D:\Tài Liệu\28. CMS\bin\TBE.pdb
+D:\Tài Liệu\28. CMS\obj\x64\Release\TBE.csproj.AssemblyReference.cache
+D:\Tài Liệu\28. CMS\obj\x64\Release\TBE.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\28. CMS\obj\x64\Release\TBE.csproj.CopyComplete
+D:\Tài Liệu\28. CMS\obj\x64\Release\TBE.dll
+D:\Tài Liệu\28. CMS\obj\x64\Release\TBE.pdb

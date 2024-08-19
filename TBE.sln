@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBE", "TBE.csproj", "{2C7AA77D-B366-478A-80B9-5B35500FC06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Debug|x64.ActiveCfg = Debug|x64
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Debug|x64.Build.0 = Debug|x64
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Release|x64.ActiveCfg = Release|x64
+		{2C7AA77D-B366-478A-80B9-5B35500FC06B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7192F2-ADF7-4D5D-A42C-D7DE03BFEC9E}
+	EndGlobalSection
+EndGlobal
